@@ -49,7 +49,7 @@ This repository serves as a comprehensive portfolio for the **Digital Literacy (
 * [Module 3: Platforms](./github_repo/task-3_platforms/)
 * [Module 4: Email Etiquette](./github_repo/task-4_email-etiquette/)
 * [Module 5: Cybercrime](./github_repo/task-5_cybercrime/)
-* [Final Project Report](./github_repo/ProjectReport.pdf/)
+* [Final Project Report](./github_repo/ProjectReport/)
 
 ----
 
