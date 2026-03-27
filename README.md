@@ -65,7 +65,7 @@ Technical Practice: HackerRank
 
 Collaboration: Google Workspace (Forms & Sheets)
 
-Documentation: Markdown & Microsoft Word
+Documentation: Google Docs
 
 ---
 🎓 Academic Statement
