@@ -44,7 +44,7 @@ This repository serves as a comprehensive portfolio for the **Digital Literacy (
 
 ## 📁 Task Navigation
 
-* [Module 1: Presentation](./task-1_presentation/)
+* [Module 1: Presentation](./github-repo/task-1_presentation/)
 * [Module 2: Portfolio](./task-2_portfolio/)
 * [Module 3: Platforms](./task-3_platforms/)
 * [Module 4: Email Etiquette](./task-4_email-etiquette/)
